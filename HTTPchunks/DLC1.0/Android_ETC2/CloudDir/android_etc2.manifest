@@ -1,0 +1,14 @@
+{
+	"ClientVersion": "DLC1.0",
+	"BuildUrl": "DLC1.0/Android_ETC2",
+	"files": [
+		{
+			"filename": "Felony_FelonyDLC1.0.manifest",
+			"uniqueFilename": "Felony_FelonyDLC1.0.manifest",
+			"length": 925,
+			"URL": "Felony_FelonyDLC1.0.manifest",
+			"hash": "C90B3C873CAD7A15941ADA642F2F060A90FBDDD8",
+			"hash256": "0641AEA487024B5153A58F7B1E9F848CC40B188F5BF73D077CFD355DACC26DA0"
+		}
+	]
+}
